@@ -1,0 +1,13 @@
+lecture:
+  title: "Rust Intro"
+  slug: "rust-intro"
+  lang: "en"
+  description: "An introduction to the Rust programming language."
+
+steps:
+  - filename: "010-welcome.md"
+    title: "Welcome"
+    slug: "welcome"
+  - filename: "020-basics.md"
+    title: "Basics"
+    slug: "basics"

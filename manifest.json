@@ -1,0 +1,14 @@
+{
+  "lectures": [
+    {
+      "slug": "rust-intro",
+      "title": "Rust Intro",
+      "languages": ["en", "hu"]
+    },
+    {
+      "slug": "rust-wasm",
+      "title": "Rust + WebAssembly",
+      "languages": ["en"]
+    }
+  ]
+}

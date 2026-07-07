@@ -1,0 +1,16 @@
+lecture:
+  title: "Rust Bevezető"
+  slug: "rust-intro"
+  lang: "hu"
+  description: "Bevezetés a Rust programozási nyelvbe."
+
+steps:
+  - filename: "010-welcome.md"
+    title: "Üdvözlő"
+    slug: "welcome"
+  - filename: "020-basics.md"
+    title: "Alapok"
+    slug: "basics"
+  - filename: "030-test.md"
+    title: "test"
+    slug: "basics"

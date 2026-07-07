@@ -1,0 +1,13 @@
+lecture:
+  title: "Rust + WebAssembly"
+  slug: "rust-wasm"
+  lang: "en"
+  description: "Building WebAssembly components with Rust and wasm-bindgen."
+
+steps:
+  - filename: "010-intro.md"
+    title: "Introduction"
+    slug: "intro"
+  - filename: "020-components.md"
+    title: "Components"
+    slug: "components"
